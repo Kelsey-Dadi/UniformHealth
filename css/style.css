@@ -1,0 +1,56 @@
+body {
+    font-family: 'Libre Franklin', sans-serif;
+
+}
+
+
+#logo {
+    height: 68px;
+    justify-content: flex-start;
+}
+#UHTriLogo {
+    background-color: #FFFFFF;
+}
+
+
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #D3374C !important;
+
+}
+
+.navbar-collapse {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 30px;
+}
+
+
+.hero {
+    display: flex;
+    justify-content: center;
+    width: 60%;
+}
+
+.dropdown-menu {
+  left: -40px;
+}
+
+.backgroundFocus {
+    background-color: #EFEDED;
+}
+
+.footer a {
+
+}
