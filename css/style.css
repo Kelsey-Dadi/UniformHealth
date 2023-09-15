@@ -1,5 +1,6 @@
 body {
     font-family: 'Libre Franklin', sans-serif;
+    background-color: #F9F5F3;
 
 }
 
@@ -9,7 +10,14 @@ body {
     justify-content: flex-start;
 }
 #UHTriLogo {
-    background-color: #FFFFFF;
+    background-color: #EBDFD8;
+}
+
+#jumboApp{
+    background-color: #9F7A87;
+}
+#mockupPic {
+
 }
 
 
@@ -26,7 +34,7 @@ h3{
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #D3374C !important;
+    color: #C94B59 !important;
 
 }
 
