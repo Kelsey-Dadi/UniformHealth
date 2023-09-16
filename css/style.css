@@ -1,5 +1,5 @@
 body {
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     background-color: #F9F5F3;
 
 }
@@ -15,6 +15,8 @@ body {
 
 #jumboApp{
     background-color: #9F7A87;
+    color: white;
+
 }
 #mockupPic {
 
@@ -26,12 +28,27 @@ h1{
 }
 
 h2{
-
+    color: #C94B59
 }
 
 h3{
 
 }
+
+.card {
+    background-color: #EBDFD8;
+}
+
+
+.customImage {
+    max-height: 500px;
+}
+
+.downloadCard {
+    background-color: #9F7A87;
+    color: white;
+}
+
 
 .navbar-light .navbar-nav .nav-link {
     color: #C94B59 !important;
@@ -45,18 +62,13 @@ h3{
 }
 
 
-.hero {
-    display: flex;
-    justify-content: center;
-    width: 60%;
-}
-
 .dropdown-menu {
-  left: -40px;
+  left: -100px;
 }
 
 .backgroundFocus {
-    background-color: #EFEDED;
+    background-color: #EBDFD8;
+    color: #C94B59;
 }
 
 .footer a {
